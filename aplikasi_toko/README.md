@@ -1,9 +1,8 @@
 # Ujian Akhir Semester Pemrograman Berbasis Perangkat Bergerak
-<br><br>
 Repository ini dibuat untuk memenuhi Ujian Akhir Semester Mata Kuliah Pemrograman Berbasis Perangkat Bergerak.<br>
-Nama : Haryo Dwi Setyoputo<br>
+<b>Nama : Haryo Dwi Setyoputo<br>
 NIM : 200101010124<br>
-Kelas : SI-701 <br>
+Kelas : SI-701 <br></b>
 Prodi PJJ Sistem Informasi Universitas Siber Asia<br>
 
 ## Getting Started
